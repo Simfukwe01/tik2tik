@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1022812444776",
+    "firebase_url": "https://soft-8e534-default-rtdb.firebaseio.com",
+    "project_id": "soft-8e534",
+    "storage_bucket": "soft-8e534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022812444776:android:c3e57b5332877cafbd83dd",
+        "android_client_info": {
+          "package_name": "com.example.admins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_w00tftOhKa-FdxJCd4qObjbsbxcs6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
